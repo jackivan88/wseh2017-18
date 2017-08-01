@@ -26,7 +26,7 @@ Periods: 1.5
 
 ## Prior Knowledge
 
-1. **KWL:** What is Culture?
+1. **KWL:** Understanding Culture
 
 ## Guided Instruction
 
@@ -39,18 +39,18 @@ Periods: 1.5
     - **trait:** distinguishing feature or characteristic
     - **dictate:** to control or command
 3. Explain the Rally Read structure
-4. **Rally Read:** What is Culture? (pp.92-93)
+4. Rally Read: What is Culture? (pp.92-93)
 
 ## Guided Practice
 
 1. Explain the Rally Swap structure
-2. **Rally Swap:** What are some elements of culture?
-3. **Rally Swap:** How do people in Greece interact with their environment differently than people in Japan?
+2. Rally Swap: What are some elements of culture?
+3. Rally Swap: How do people in Greece interact with their environment differently than people in Japan?
 
 ## Independent Practice
 
 1. Explain and model Details + Details = Main Idea (DDMI)
-2. **DDMI:** What is Culture? (pp. 92-93)
+2. DDMI: What is Culture? (pp. 92-93)
 
 ## Assessment
 
@@ -59,23 +59,23 @@ Periods: 1.5
 ## Guided Instruction
 
 1. Vocabulary Builder
-	- **advance:** development
-	- **complex:** complicated, made up of several parts
-2. **Rally Read:** The Development of Culture (pp. 94-95)
-3. **Discussion:** Biblical timeline vs. secular timeline
+  - **advance:** development
+  - **complex:** complicated, made up of several parts
+2. Rally Read: The Development of Culture (pp. 94-95)
+3. Discussion: Biblical time line vs. secular time line
 
 ## Guided Practice
 
-1. **Rally Swap:** What are the four major advances of early cultures? Why do you think each is important?
-2. **Rally Swap:** Why do you think the development of cities made institutions like government and armies important?
+1. Rally Swap: What are the four major advances of early cultures? Why do you think each is important?
+2. Rally Swap: Why do you think the development of cities made institutions like government and armies important?
 
 ## Independent Practice
 
-1. **DDMI:** The Development of Culture (pp. 94-95)
+1. DDMI: The Development of Culture (pp. 94-95)
 
 ## Assessment
 
-1. **Reading Check:** What allowed civilizations to develop? *Advances in culture such as agriculture and writing.*
+1. Reading Check: What allowed civilizations to develop? *Advances in culture such as agriculture and writing.*
 
 ## Homework
 
