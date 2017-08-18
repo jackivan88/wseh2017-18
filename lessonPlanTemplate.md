@@ -1,13 +1,12 @@
 ---
-title: 
+title: Lesson Plan Template
+author: John Olinda
+text: WSEH pp. nnn-nnn
+periods: n.n class periods
 ---
 
-[Go to the Index](index.html)
-
-# Lesson Title
-
-Text:  
-Periods: 
+Text: WSEH pp. nnn-nnn  
+Periods: n.n class periods
 
 ## Before the Lesson
 

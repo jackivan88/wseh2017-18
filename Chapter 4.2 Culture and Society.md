@@ -1,10 +1,9 @@
 ---
 title: Chapter 4.2 Culture and Society
+author: John Olinda
 ---
 
 [Go to the Index](index.html)
-
-# Chapter 4.2 Culture and Society
 
 Text: *WSEH* pp. 96-101  
 Periods: 3.5

@@ -1,10 +1,9 @@
 ---
 title: Chapter 4.1 Understanding Culture
+author: John Olinda
 ---
 
 [Go to the Index](index.html)
-
-# Chapter 4.1 Understanding Culture
 
 Text: *WSEH* pp. 92-95  
 Periods: 1.5

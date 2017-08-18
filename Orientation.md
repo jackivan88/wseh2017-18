@@ -1,6 +1,11 @@
-[Go to the Index](index.html)
+---
+title: Orientation
+author: John Olinda
+text: Course Syllabus
+periods: 3 class periods
+---
 
-# Orientation
+[Go to the Index](index.html)
 
 Text: Course Syllabus
 Periods: 3

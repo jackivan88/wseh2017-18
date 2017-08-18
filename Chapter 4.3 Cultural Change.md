@@ -1,10 +1,9 @@
 ---
 title: Chapter 4.3 Cultural Change
+author: John Olinda
 ---
 
 [Go to the Index](index.html)
-
-# Chapter 4.3 Cultural Change
 
 Text: *WSEH* pp. 104-108 
 Periods: 3.5
