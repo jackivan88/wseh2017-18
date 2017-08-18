@@ -1,5 +1,5 @@
 ---
-title: World Studies: Eastern Hemisphere
+title: World Studies Eastern Hemisphere
 ---
 
 # World Studies: Eastern Hemisphere
@@ -53,6 +53,8 @@ The following information details the expectations we will normally deal with wh
 ### Unit 1: Course Introduction
 
 #### Orientation
+
+Orientation | [Lesson Plan](Orientation.html)
 
 #### Chapter 4 Cultures of the World 
 

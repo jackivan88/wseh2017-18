@@ -1,3 +1,7 @@
+---
+title: Chapter 4.2 Culture and Society
+---
+
 [Go to the Index](index.html)
 
 # Chapter 4.2 Culture and Society

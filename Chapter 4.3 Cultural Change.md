@@ -1,3 +1,7 @@
+---
+title: Chapter 4.3 Cultural Change
+---
+
 [Go to the Index](index.html)
 
 # Chapter 4.3 Cultural Change

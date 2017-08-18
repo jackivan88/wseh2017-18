@@ -1,13 +1,9 @@
----
-title: 
----
-
 [Go to the Index](index.html)
 
-# Lesson Title
+# Orientation
 
-Text:  
-Periods: 
+Text: Course Syllabus
+Periods: 3
 
 ## Before the Lesson
 
@@ -15,11 +11,14 @@ Periods:
 
 ## Objectives
 
-
+1. Understand the course expectations.
+2. Understand and carry out the procedures for beginning and ending class.
 
 ## Opening Instructions
 
-
+1. Complete the student information survey on your desk and raise your hand when you are finished
+2. Review the printed course syllabus on your desk
+3. 
 
 ## Prior Knowledge
 

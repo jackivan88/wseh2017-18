@@ -1,3 +1,7 @@
+---
+title: Chapter 4.1 Understanding Culture
+---
+
 [Go to the Index](index.html)
 
 # Chapter 4.1 Understanding Culture
@@ -59,8 +63,8 @@ Periods: 1.5
 ## Guided Instruction
 
 1. Vocabulary Builder
-  - **advance:** development
-  - **complex:** complicated, made up of several parts
+    - **advance:** development
+    - **complex:** complicated, made up of several parts
 2. Rally Read: The Development of Culture (pp. 94-95)
 3. Discussion: Biblical time line vs. secular time line
 
@@ -75,7 +79,7 @@ Periods: 1.5
 
 ## Assessment
 
-1. Reading Check: What allowed civilizations to develop? *Advances in culture such as agriculture and writing.*
+1. Reading Check: What allowed civilizations to develop?
 
 ## Homework
 
