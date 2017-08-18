@@ -6,7 +6,7 @@ periods: n.n class periods
 ---
 
 Text: WSEH pp. nnn-nnn  
-Periods: n.n class periods
+Periods: n.n
 
 ## Before the Lesson
 

@@ -1,8 +1,6 @@
 ---
 title: Orientation
 author: John Olinda
-text: Course Syllabus
-periods: 3 class periods
 ---
 
 Text: Course Syllabus
