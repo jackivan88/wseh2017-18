@@ -3,8 +3,6 @@ title: Chapter 4.1 Understanding Culture
 author: John Olinda
 ---
 
-[Go to the Index](index.html)
-
 Text: *WSEH* pp. 92-95  
 Periods: 1.5
 
@@ -87,4 +85,6 @@ Periods: 1.5
 
 ## After the Lesson
 
-[Go to the Index](index.html)
+---
+
+[Go Home](index.html)

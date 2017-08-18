@@ -5,8 +5,6 @@ text: Course Syllabus
 periods: 3 class periods
 ---
 
-[Go to the Index](index.html)
-
 Text: Course Syllabus
 Periods: 3
 
@@ -51,4 +49,6 @@ Periods: 3
 
 ## After the Lesson
 
-[Go to the Index](index.html)
+---
+
+[Go Home](index.html)

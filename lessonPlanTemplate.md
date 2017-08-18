@@ -46,4 +46,6 @@ Periods: n.n class periods
 
 ## After the Lesson
 
-[Go to the Index](index.html)
+---
+
+[Go Home](index.html)

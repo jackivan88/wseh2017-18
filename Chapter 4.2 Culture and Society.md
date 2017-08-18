@@ -3,8 +3,6 @@ title: Chapter 4.2 Culture and Society
 author: John Olinda
 ---
 
-[Go to the Index](index.html)
-
 Text: *WSEH* pp. 96-101  
 Periods: 3.5
 
@@ -102,6 +100,6 @@ Periods: 3.5
 
 ## After the Lesson
 
-[Go to the Index](index.html)
+---
 
-
+[Go Home](index.html)
