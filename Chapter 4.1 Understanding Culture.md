@@ -9,11 +9,9 @@ Periods: 1.5
 ## Before the Lesson
 
 1. Prepare Objectives, Opening Instructions, and Homework slides
-2. Prepare Rally Read explanation slides
-3. Prepare Rally Swap explanation slides
-4. Prepare KWL worksheet
-5. Prepare Rally Swap worksheet
-6. Prepare DDMI worksheet
+2. Prepare KWL worksheet
+3. Prepare Rally Swap worksheet
+4. Prepare DDMI worksheet
 
 ## Objectives
 
@@ -27,7 +25,7 @@ Periods: 1.5
 
 ## Prior Knowledge
 
-1. **KWL:** Understanding Culture
+1. KWL: Understanding Culture
 
 ## Guided Instruction
 
@@ -44,9 +42,8 @@ Periods: 1.5
 
 ## Guided Practice
 
-1. Explain the Rally Swap structure
-2. Rally Swap: What are some elements of culture?
-3. Rally Swap: How do people in Greece interact with their environment differently than people in Japan?
+1. Rally Swap: What are some elements of culture?
+2. Rally Swap: How do people in Greece interact with their environment differently than people in Japan?
 
 ## Independent Practice
 

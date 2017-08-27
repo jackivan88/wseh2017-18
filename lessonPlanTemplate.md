@@ -1,8 +1,6 @@
 ---
 title: Lesson Plan Template
 author: John Olinda
-text: WSEH pp. nnn-nnn
-periods: n.n class periods
 ---
 
 Text: WSEH pp. nnn-nnn  
@@ -18,7 +16,7 @@ Periods: n.n
 
 ## Opening Instructions
 
-
+1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
 
 ## Prior Knowledge
 
