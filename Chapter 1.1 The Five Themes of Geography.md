@@ -28,7 +28,7 @@ Periods: 3.5
 
 1. Find your new assigned seat
 2. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
-3. Review the syllabus in preparation for the Class Supply List, Class procedures, and Class Preparation quizzes
+3. Review the syllabus in preparation for the Class Supply List, Class Procedures, and Class Preparation quizzes
 
 ## Assessment
 
