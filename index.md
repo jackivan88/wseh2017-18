@@ -5,8 +5,6 @@ author: John Olinda
 
 [Chapel Field Christian Schools](http://www.chapelfield.org)
 
-## Summary
-
 ## Supplies
 
 1. _World Studies: Eastern Hemisphere_
@@ -45,7 +43,7 @@ The following information details the expectations we will normally deal with wh
 5. Silently close your binder and planner.
 6. At the final bell, silently stand up, push in your chair, and pick up your materials. At this point you may talk. If you have a question for me, please remain in your seat so I can talk to you after your classmates have left. 
 
-## Syllabus
+## Schedule
 
 ### Unit 1: Course Introduction
 
@@ -55,7 +53,7 @@ Orientation | [Lesson Plan](Orientation.html)
 
 #### Chapter 1 The World of Geography
 
-Chapter 1.1 The Five Themes of Geography
+Chapter 1.1 The Five Themes of Geography | 
 
 Chapter 1.2 The Geographer's Tools
 
