@@ -46,9 +46,9 @@ Periods: 1
 
 ## Homework
 
-1. Prepare for the Class Supply List quiz (9/6)
-2. Prepare for the Class Procedures quiz (9/7)
-3. Prepare for the Class Preparation quiz (9/8)
+1. Prepare for the Class Supply List quiz (9/7)
+2. Prepare for the Class Procedures quiz (9/8)
+3. Prepare for the Class Preparation quiz (9/11)
 
 ## After the Lesson
 
