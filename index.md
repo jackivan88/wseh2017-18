@@ -12,8 +12,7 @@ author: John Olinda
 3. Planner
 4. Black, blue, and red pens
 5. Mechanical pencil
-6. 8GB USB drive
-7. Earbuds
+6. Earbuds
 
 ## Expectations
 
@@ -21,12 +20,13 @@ The following information details the expectations we will normally deal with wh
 
 ### Beginning Class
 
-1. Come to class prepared with your daily materials: textbook, class binder, planner, black pen, blue pen, red pen, mechanical pencil, 8GB USB drive, and earbuds. If you do not have your class materials by the time class starts you will receive a strike.
+1. Come to class prepared with your daily materials: textbook, class binder, planner, black pen, blue pen, red pen, mechanical pencil, and earbuds. If you do not have your class materials by the time class starts you will receive a strike.
 2. Completely power down your phone and leave it on my desk. If your phone is powered on during class without permission from me, you will receive a strike. If you use your phone without permission, you will receive two strikes and your phone will be turned in to the office for the rest of the day.
 3. Enter the room silently and remain silent until I instruct you otherwise. If you talk to a classmate before I instruct you, you will receive a strike.
 4. Sit down in your seat and log in to your workstation by the class bell. If you are not seated in your assigned seat by the class bell you will receive two strikes unless you have a written excuse from the office or your previous teacher. The written excuse must explain where you were, what you were doing, the time you were sent to me, and who is excusing you.
-5. Add any homework or dated reminders to your planner. When you are done, leave your planner open on your desk for me to sign.
-6. Begin silently working on the tasks for the class period.
+5. Check your email for the daily class instructions and read them completely in whichever language you are most comfortable with. If you miss class for any reason you are still responsible to check your email that day.
+6. Add any homework or dated reminders to your planner. When you are done, leave your planner open on your desk for me to sign.
+7. Begin silently working on the tasks for the class period.
 
 ### During Class
 
@@ -39,7 +39,7 @@ The following information details the expectations we will normally deal with wh
 1. Do not pack up until the one-minute bell. If you begin packing up before the one-minute bell without permission, you will receive a strike. During the end of class, it is important to remain silent so that you can hear any announcements from the teacher or the office.
 2. Once the one-minute bell rings, silently log out of your workstation if we are in the lab. Do not shut down your computer.
 3. Silently wrap up your headphones if they are out using the hourglass wrap and place them in your binder pocket.
-4. Silently place your pens, pencil, and USB drive in your binder pocket.
+4. Silently place your pens and pencils in your binder pocket.
 5. Silently close your binder and planner.
 6. At the final bell, silently stand up, push in your chair, and pick up your materials. At this point you may talk. If you have a question for me, please remain in your seat so I can talk to you after your classmates have left. 
 
