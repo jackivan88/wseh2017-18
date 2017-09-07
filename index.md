@@ -43,6 +43,8 @@ The following information details the expectations we will normally deal with wh
 5. Silently close your binder and planner.
 6. At the final bell, silently stand up, push in your chair, and pick up your materials. At this point you may talk. If you have a question for me, please remain in your seat so I can talk to you after your classmates have left. 
 
+---
+
 ## Schedule
 
 ### Unit 1: Course Introduction
