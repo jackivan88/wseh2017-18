@@ -46,7 +46,8 @@ Periods: 3.5
 ## Guided Instruction
 
 1. Review and explain the lesson objectives
-2. Vocabulary Builder
+2. Log into Quizlet
+3. Vocabulary Builder
     - **latitude:** the distance north or south of Earth's equator, in degrees
     - **longitude:** the distance east or west of the Prime Meridian, in degrees
     - **hemisphere:** a half of Earth
@@ -54,7 +55,7 @@ Periods: 3.5
     - **meridian:** a line of longitude
     - **theme:** the main subject or idea of something
     - **traditional:** something handed down from generation to generation
-3. Rally Read: The Study of Earth; Five Ways to Look at Earth (pp. 10-13)
+4. Rally Read: The Study of Earth; Five Ways to Look at Earth (pp. 10-13)
 
 ## Guided Practice
 
