@@ -32,9 +32,9 @@ Periods: 3.5
 
 ## Assessment
 
-1. Class Supply List Quiz (9/6)
-2. Class Class Procedures quiz (9/7)
-3. Class Class Preparation quiz (9/8)
+1. Class Supply List Quiz (9/8)
+2. Class Class Procedures quiz (9/11)
+3. Class Class Preparation quiz (9/12)
 
 ## Prior Knowledge
 
@@ -79,7 +79,7 @@ Periods: 3.5
 ## Homework
 
 1. Quizlet: Chapter 1 Terms
-2. Prepare for Chapter 1.1 Terms Quiz
+2. Prepare for Chapter 1.1 Terms Quiz (9/14)
 
 ## After the Lesson
 

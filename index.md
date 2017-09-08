@@ -55,9 +55,9 @@ Orientation | [Lesson Plan](Orientation.html)
 
 #### Chapter 1 The World of Geography
 
-Chapter 1.1 The Five Themes of Geography | 
+Chapter 1.1 The Five Themes of Geography | [Lesson Plan](Chapter 1.1 The Five Themes of Geography.html)
 
-Chapter 1.2 The Geographer's Tools
+Chapter 1.2 The Geographer's Tools | [Lesson Plan](Chapter 2.2 The Geographer's Tools.html)
 
 #### Chapter 2 Earth's Physical Geography
 
