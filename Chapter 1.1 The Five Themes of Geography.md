@@ -26,15 +26,30 @@ Periods: 3.5
 
 ## Opening Instructions
 
+### Period 1
+
 1. Find your new assigned seat
 2. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
-3. Review the syllabus in preparation for the Class Supply List, Class Procedures, and Class Preparation quizzes
+3. Review the syllabus in preparation for the Class Supply List Quiz
+
+### Period 2
+
+1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
+2. Log into your computer and open Google Chrome
+3. Go to Socrative.com and log in as a student
+4. Type in OLINDA for the room name and your first and last name when asked
+5. Review the syllabus in preparation for the Class Procedures Quiz
+
+### Period 3
+
+1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
+2. Make sure you have all your class supplies ready for the quiz
 
 ## Assessment
 
 1. Class Supply List Quiz (9/8)
-2. Class Class Procedures quiz (9/11)
-3. Class Class Preparation quiz (9/12)
+2. Class Procedures quiz (9/11)
+3. Class Preparation quiz (9/12)
 
 ## Prior Knowledge
 
@@ -79,8 +94,17 @@ Periods: 3.5
 
 ## Homework
 
+### Period 1
+
+1. Prepare for Chapter 1.1 Terms Quiz (9/14)
+
+### Period 2
+
 1. Quizlet: Chapter 1 Terms
-2. Prepare for Chapter 1.1 Terms Quiz (9/14)
+
+### Period 3
+
+1. Quizlet: Chapter 1 Terms
 
 ## After the Lesson
 
