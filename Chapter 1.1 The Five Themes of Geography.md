@@ -14,9 +14,9 @@ Periods: 3.5
 4. Prepare Rally Swap explanation slides
 5. Prepare Rally Swap: The Five Themes of Geography worksheet
 6. Prepare Rally Read explanation slides
-7. Prepare the Class Supply List quiz (9/6)
-2. Prepare the Class Procedures quiz (9/7)
-3. Prepare the Class Preparation quiz (9/8)
+7. Prepare the Class Supply List quiz (9/8)
+8. Prepare the Class Procedures quiz (9/11)
+9. Prepare the Class Preparation quiz (9/12)
 
 ## Objectives
 
@@ -97,14 +97,17 @@ Periods: 3.5
 ### Period 1
 
 1. Prepare for Chapter 1.1 Terms Quiz (9/14)
+2. Sign up for Quizlet and join the class
 
 ### Period 2
 
-1. Quizlet: Chapter 1 Terms
+1. Prepare for Chapter 1.1 Terms Quiz (9/14)
+2. Quizlet: Chapter 1 Terms
 
 ### Period 3
 
-1. Quizlet: Chapter 1 Terms
+1. Prepare for Chapter 1.1 Terms Quiz (9/14)
+2. Quizlet: Chapter 1 Terms
 
 ## After the Lesson
 
