@@ -2,7 +2,7 @@
 
 1. **orbit:** the oath one body makes as it circles around another
 2. **revolution:** circular motion
-3. **axis: an imaginary line between the North and South poles, around which Earth turns
+3. **axis:** an imaginary line between the North and South poles, around which Earth turns
 4. **rotation:** a complete turn
 5. **core:** the sphere of very hot metal at the center of Earth
 6. **mantle:** the thick layer around Earth's core
