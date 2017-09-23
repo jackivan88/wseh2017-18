@@ -1,9 +1,4 @@
----
-title: World Studies Eastern Hemisphere
-author: John Olinda
----
-
-[Chapel Field Christian Schools](http://www.chapelfield.org)
+# World Studies: Eastern Hemisphere
 
 ## Supplies
 
