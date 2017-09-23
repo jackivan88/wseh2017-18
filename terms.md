@@ -1,6 +1,6 @@
 ## Chapter 2
 
-1. **orbit:** the oath one body makes as it circles around another
+1. **orbit:** the path one body makes as it circles around another
 2. **revolution:** circular motion
 3. **axis:** an imaginary line between the North and South poles, around which Earth turns
 4. **rotation:** a complete turn
