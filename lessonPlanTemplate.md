@@ -1,8 +1,3 @@
----
-title: Lesson Plan Template
-author: John Olinda
----
-
 Text: WSEH pp. nnn-nnn  
 Periods: n.n
 
@@ -13,10 +8,6 @@ Periods: n.n
 ## Objectives
 
 
-
-## Opening Instructions
-
-1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
 
 ## Prior Knowledge
 
@@ -44,6 +35,3 @@ Periods: n.n
 
 ## After the Lesson
 
----
-
-[Go Home](index.html)
