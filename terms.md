@@ -1,5 +1,7 @@
 ## Chapter 1
 
+1. **geography:** the study of Earth
+1. **cardinal directions:** the directions north, east, south, and west
 1. **latitude:** the distance north or south of Earth's equator, in degrees
 1. **longitude:** the distance east or west of the Prime Meridian, in degrees
 1. **hemisphere:** a half of Earth
