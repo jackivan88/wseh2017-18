@@ -1,5 +1,16 @@
 ## Chapter 1
 
+1. **latitude:** the distance north or south of Earth's equator, in degrees
+1. **longitude:** the distance east or west of the Prime Meridian, in degrees
+1. **hemisphere:** a half of Earth
+1. **parallel:** a line of latitude
+1. **meridian:** a line of longitude
+1. **scale:** a relative size
+1. **distortion:** loss of accuracy
+1. **geographic information systems:** computer-based systems that provide information about locations
+1. **projection:** a way to map Earth on a flat surface
+1. **compass rose:** a diagram of a compass showing direction
+1. **key:** the section of a map that explains the symbols and colors on the map
 
 ## Chapter 2
 
