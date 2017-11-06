@@ -17,18 +17,24 @@
 ## Chapter 2
 
 1. **orbit:** the path one body makes as it circles around another
-2. **revolution:** circular motion
-3. **axis:** an imaginary line between the North and South poles, around which Earth turns
-4. **rotation:** a complete turn
-5. **core:** the sphere of very hot metal at the center of Earth
-6. **mantle:** the thick layer around Earth's core
-7. **crust:** the thin, rocky layer on Earth's surface
-8. **magma:** soft, nearly molten rock
-9. **plate:** a huge block of Earth's crust
-10. **weathering:** a process that breaks rocks down into small pieces
-11. **erosion:** the removal of small pieces of rock by water, ice, or wind
-12. **weather:** the condition of the air and sky from day to day
-13. **precipitation:** water that falls to the ground as rain, sleet, hail, or snow
-14. **temperature:** how hot or cold the air is
-15. **climate:** the average weather over many years
-16. **tropical cyclone:** an intense wind and rain storm that forms over oceans in the tropics
+1. **revolution:** circular motion
+1. **axis:** an imaginary line between the North and South poles, around which Earth turns
+1. **rotation:** a complete turn
+1. **core:** the sphere of very hot metal at the center of Earth
+1. **mantle:** the thick layer around Earth's core
+1. **crust:** the thin, rocky layer on Earth's surface
+1. **magma:** soft, nearly molten rock
+1. **plate:** a huge block of Earth's crust
+1. **weathering:** a process that breaks rocks down into small pieces
+1. **erosion:** the removal of small pieces of rock by water, ice, or wind
+1. **weather:** the condition of the air and sky from day to day
+1. **precipitation:** water that falls to the ground as rain, sleet, hail, or snow
+1. **temperature:** how hot or cold the air is
+1. **climate:** the average weather over many years
+1. **tropical cyclone:** an intense wind and rain storm that forms over oceans in the tropics
+1. **tundra:** an area of cold climate and low-lying vegetation
+1. **canopy:** the layer formed by the uppermost branches of a rain forest
+1. **savanna:** a parklike combination of grasslands and scattered trees
+1. **desert scrub:** desert vegetation that needs little water
+1. **deciduous trees:** trees that lose their leaves seasonally
+1. **coniferous trees:** trees that produce cones to carry seeds
