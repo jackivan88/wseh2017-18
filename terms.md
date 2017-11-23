@@ -47,11 +47,11 @@
 1. **population density:** 
 1. **birthrate:** 
 1. **death rate:** 
-1. **migration:** 
-1. **immigrants:** 
-1. **urbanization:** 
-1. **rural:** 
-1. **urban:** 
+1. **migration:** the movement of people from one place or region to another
+1. **immigrants:** people who move into one country from another
+1. **urbanization:** the movement of people to cities, and the growth of cities
+1. **rural:** located in the countryside
+1. **urban:** located in cities and towns
 1. **economy:** a system in which people make, exchange, and use things that have value
 1. **producers:** owners and workers
 1. **consumers:** people who buy and use products
