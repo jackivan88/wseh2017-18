@@ -38,3 +38,31 @@
 1. **desert scrub:** desert vegetation that needs little water
 1. **deciduous trees:** trees that lose their leaves seasonally
 1. **coniferous trees:** trees that produce cones to carry seeds
+
+## Chapter 3
+
+1. **population:** 
+1. **population distribution:** 
+1. **demography:** 
+1. **population density:** 
+1. **birthrate:** 
+1. **death rate:** 
+1. **migration:** 
+1. **immigrants:** 
+1. **urbanization:** 
+1. **rural:** 
+1. **urban:** 
+1. **economy:** 
+1. **producers:** 
+1. **consumers:** 
+1. **capitalism:** 
+1. **communism:** 
+1. **developed nations:** 
+1. **developing nations:** 
+1. **government:** 
+1. **state:** 
+1. **dependency:** 
+1. **nation-state:** 
+1. **city-state:** 
+1. **empire:** 
+1. **constitution:** 
