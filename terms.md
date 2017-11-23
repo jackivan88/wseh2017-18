@@ -59,10 +59,10 @@
 1. **communism:** 
 1. **developed nations:** 
 1. **developing nations:** 
-1. **government:** 
-1. **state:** 
-1. **dependency:** 
-1. **nation-state:** 
-1. **city-state:** 
-1. **empire:** 
-1. **constitution:** 
+1. **government:** a body that makes and enforces laws
+1. **state:** a region that shares a government
+1. **dependency:** a region that belongs to another state
+1. **nation-state:** a state that is independent of other states
+1. **city-state:** a small city-centered state
+1. **empire:** a state containing several countries
+1. **constitution:** a set of laws that define and often limit a government's power
