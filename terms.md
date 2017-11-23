@@ -52,13 +52,13 @@
 1. **urbanization:** 
 1. **rural:** 
 1. **urban:** 
-1. **economy:** 
-1. **producers:** 
-1. **consumers:** 
-1. **capitalism:** 
-1. **communism:** 
-1. **developed nations:** 
-1. **developing nations:** 
+1. **economy:** a system in which people make, exchange, and use things that have value
+1. **producers:** owners and workers
+1. **consumers:** people who buy and use products
+1. **capitalism:** an economic system in which individuals own most businesses
+1. **communism:** an economic system in which the central government owns factories, farms, and offices
+1. **developed nations:** nations with many industries and advanced technology
+1. **developing nations:** nations with few industries and simple technology
 1. **government:** a body that makes and enforces laws
 1. **state:** a region that shares a government
 1. **dependency:** a region that belongs to another state
