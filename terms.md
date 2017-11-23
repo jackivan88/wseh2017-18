@@ -41,12 +41,12 @@
 
 ## Chapter 3
 
-1. **population:** 
-1. **population distribution:** 
-1. **demography:** 
-1. **population density:** 
-1. **birthrate:** 
-1. **death rate:** 
+1. **population:** total number of people in an area
+1. **population distribution:** the way the population is spread out over an area
+1. **demography:** the science that studies population distribution and change
+1. **population density:** the average number of people per square mile or square kilometer
+1. **birthrate:** the number of live births each year per 1,000 people
+1. **death rate:** the number of deaths each year per 1,000 people
 1. **migration:** the movement of people from one place or region to another
 1. **immigrants:** people who move into one country from another
 1. **urbanization:** the movement of people to cities, and the growth of cities
